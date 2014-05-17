@@ -19,7 +19,7 @@ For more information please see [the website][1]
 
 The general idea
 ==========================
-Indoor mapping is a bit of a problem - canyons, markets, big buildings, parking garages or any other indoor area that doesn't have GPS reception, but
+Indoor mapping is a bit of a problem - shopping malls, markets, big buildings, parking garages or any other indoor area that doesn't have GPS reception, but
 still want to be "navigable", and basicly more accurate locationing of an individual out in the world.
 
 So the idea is to use the WIFI signals around us, determine their strength (RSSI) which in a way represents the distance from the actual access point (router),
@@ -52,7 +52,7 @@ https://www.facebook.com/gilboash
 
 License
 --------
-    All license registered to Gilboa Shveki 
+    Under LICENSE.txt
 
 
  [1]: http://easyfloormap.weebly.com/
