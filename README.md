@@ -2,9 +2,9 @@ Easy Floor Map Android APP
 ==========================
 
 A powerful Application to easily map indoor floors with your android smart phone, based on the
-wifi signals surrounding you.
+WIFI signals surrounding you.
 
-This is an APP I've written in my spare time, I do lot's of wifi in my proffession, writting embedded C,
+This is an APP I've written in my spare time, I do lot's of WIFI in my profession, writing embedded C,
 so this is my first ever android APP. 
 The design is horrible, and the code is a real mess I'm not proud of, but the logic behind the scenes is doing a fine work (still needs some tuning).
 
@@ -22,7 +22,7 @@ The general idea
 Indoor mapping is a bit of a problem - canyons, markets, big buildings, parking garages or any other indoor area that doesn't have GPS reception, but
 still want to be "navigable", and basicly more accurate locationing of an individual out in the world.
 
-So the idea is to use the wifi signals around us, determine their strength (RSSI) which in a way represents the distance from the actual access point (router),
+So the idea is to use the WIFI signals around us, determine their strength (RSSI) which in a way represents the distance from the actual access point (router),
 and determine the closest location we are at.
 
 The APP has 2 main modes:
@@ -44,7 +44,9 @@ the design is horrible, but the logic behind the scene is doing a fine work (sti
 Contact Me
 -----------
 gilboash@gmail.com
+
 https://www.linkedin.com/pub/gilboa-shveki/13/641/799
+
 https://www.facebook.com/gilboash
 
 
