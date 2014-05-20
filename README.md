@@ -32,12 +32,12 @@ The APP has 2 main modes:
 
 Download APK's
 --------
-Available under APK library [the website][2]
+Available under APK library [APK Library][2]
 
 
 Android APP Sources
 -------------------
-Available under sources library [the website][3]
+Available under sources library [sources][3]
 this is a very raw and initial sources, my first ever written android APP (I'm a C developer in my profession)
 the design is horrible, but the logic behind the scene is doing a fine work (still needs some tuning)
 
