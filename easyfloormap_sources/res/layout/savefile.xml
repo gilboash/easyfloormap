@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<LinearLayout 
+	android:id = "@+id/linearLayout1"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+</LinearLayout> 
+<EditText
+	android:id = "@+id/savemapfilename"
+	android:layout_width = "fill_parent"
+	android:layout_height = "wrap_content"
+	android:paddingTop = "10sp"
+	 android:paddingBottom = "10sp"
+	    />
+
+<Button
+    android:id="@+id/button10"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="OK" />
+
+<LinearLayout 
+	android:id = "@+id/linearLayout2"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+	    </LinearLayout> 
+	    
+        <ListView
+                android:id="@+id/listView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"/>
+</LinearLayout> 
