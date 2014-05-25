@@ -1,19 +1,26 @@
-/**********************************************************************************************************************
- 
-  Project:		  Easy Floor Map Locator Android APP
+/**
+ * Project:		  Easy Floor Map Locator Android APP
 
-  FILENAME:       rssi_cell_rank_list.java
+ * FILENAME:        rssi_cell_rank_list.java
 
-  DESCRIPTION:    ranking cells for their RSSI per AP - this is the real deal !!!
+ * DESCRIPTION:    ranking cells for their RSSI per AP - this is the real deal !!!
   				  learning mode - per AP insert cell and sort rssi 
   				  locating mode - find closest cell for this AP according to its RSSI
-
-  Copyright (c) 2013 Gilboa Shveki	(gilboash@gmail.com)
-   
-  Author: Gilboa Shveki
-
-***********************************************************************************************************************/
-
+ *				
+ * Copyright 2014 Gilboa Shveki 
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 
 
 package iScans.wifiscans;
