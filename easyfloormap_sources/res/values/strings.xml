@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyFloorMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Easy Floor Map</string>
+	<string name="loadfile_activity">Choose Map To Load</string>
+    <string name="savefile_activity">Save Map File</string>
+    <string name="loadimage_activity">Load Map Image</string>
+    <string name="dbroulette_activity">DropBox Share Map</string>
+    <string name="popupmenu">Main Menu</string>
+    <string name="changematrixsize">Set Matrix Size</string>
+    <string name="wrong_path">Press back my dear friend</string>
+
+    
+    	
+    <string name="defaultText">0</string>
+    <string name="labelRed">Red</string>
+    <string name="labelBlue">Blue</string>
+    <string name="labelGreen">Green</string>
+   <string name="label_load_map">Load Map</string>
+   <string name="label_load_image">Load Map Image</string>
+   <string name="label_save_map">Save Map</string>
+   <string name="label_import_image">Import Image</string>
+   <string name="label_locate_me">Locate Me</string>
+   <string name="label_import_map">Import Map</string>
+   
+   <string name="label_learning_mode">Finish Learn</string>
+   <string name="label_learning_mode_off">Map Learn</string>
+   <string name="label_option_view">>></string>
+        <string name="lable_delete_last_shape">Clear Last</string>
+        <string name="labe_shape_select_line">Line</string>
+        <string name="label_clear_screen">Clear All</string>
+        
+        
+    
+ </resources>   
